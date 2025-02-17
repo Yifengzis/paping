@@ -6,8 +6,8 @@
 	#pragma comment(lib, "ws2_32.lib")
 #endif
 
-#define	VERSION	"1.5.5"
-#define	AUTHOR	"Mike Lovell"
+#define	VERSION	"1.5.6"
+#define	AUTHOR	"yifengzis@qq.com"
 #define YEAR	((((__DATE__ [7] - '0') * 10 + (__DATE__ [8] - '0')) * 10 + (__DATE__ [9] - '0')) * 10 + (__DATE__ [10] - '0'))
 
 #ifdef WIN32
